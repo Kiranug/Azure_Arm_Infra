@@ -4,6 +4,9 @@
   "parameters": {
     "location": {
       "value": "West US"
+    },
+    "name": {
+      "value": "sit"
     }
   }
 }
